@@ -2,37 +2,56 @@ Comprehensive Ethics Bundle License and Data Use Agreement, version 0.1
 
 Copyright (c) <year> <copyright holders>
 
-Sharing is good, and we want our shared materials to be used for the public good. To accomplish this, this material is freely shared for use and re-use by others subject to the following conditions:
+Sharing is good, and we want our shared materials to be used for the public
+good. To accomplish this, this material is freely shared for use and re-use
+by others subject to the following conditions:
 
 1. Attribution
-The creator(s) of this material invested their resources to create it. Any work you create that uses this material should credit the creator(s) in the manner they specify.
+The creator(s) of this material invested their resources to create it. Any work
+you create that uses this material should credit the creator(s) in the manner
+they specify.
 
 2. Noncommercial
-The ultimate goal for commercial practices is the realization of corporate profit, rather than public good. To ensure that this work is used for the public good, it may not be used for commercial use.
+The ultimate goal for commercial practices is the realization of corporate
+profit, rather than public good. To ensure that this work is used for the public
+good, it may not be used for commercial use.
 
 3. No patents
-God we hate patent trolls. We promise not to enforce any patents we own that are implemented in this. If you use this material, you may not derive any patents from it.
+God we hate patent trolls. We promise not to enforce any patents we own that are
+implemented in this. If you use this material, you may not derive any patents
+from it.
 
 4. No privacy intrusion
-We are sick of privacy intrusion. You are not allowed to use this material for spying, backdoors, or identification of individuals.
+We are sick of privacy intrusion. You are not allowed to use this material for
+spying, backdoors, or identification of individuals.
 
 5. No human killing or harm
-The world is civilized and each life is precious. You may not use this material for any purposes involved in  weapons of war, or any other legal or illegal acts harming or killing humans.
+The world is civilized and each life is precious. You may not use this material
+for any purposes involved in  weapons of war, or any other legal or illegal acts
+harming or killing humans.
 
 6. No animal killing or torture
-Animals can feel pain, their lives matter too. You may not use this material for any purposes that promote animal suffering or slaughter.
+Animals can feel pain, their lives matter too. You may not use this material
+for any purposes that promote animal suffering or slaughter.
 
 7. No criminal prosecution
-The prosecutorial system is abused around the world to oppress the disempowered. You may not use this material for the purposes of arrest or prosecution of individuals or organizations.
+The prosecutorial system is abused around the world to oppress the disempowered.
+You may not use this material for the purposes of arrest or prosecution of
+individuals or organizations.
 
 8. No discrimination
-The world must grow beyond the evils of racism, sexism, and other forms of discrimination. This material may not be used for any purposes that enable or promote discrimination
+The world must grow beyond the evils of racism, sexism, and other forms of
+discrimination. This material may not be used for any purposes that enable or
+promote discrimination
 
 9. No destruction of the environment
-Our natural world is precious. This material may not be used for any purposes that result in the destruction of degradation of the environment.
+Our natural world is precious. This material may not be used for any purposes
+that result in the destruction of degradation of the environment.
 
 10. All derivative work must be shared
-We believe sharing is fundamental to advancing the public good. Anything derived from this work must be shared freely.
+We believe sharing is fundamental to advancing the public good. Anything
+derived from this work must be shared freely.
 
 11. All derivative work must inherit these and only these conditions
-No loopholes. If you derive work from this, it must inherit the conditions that apply to this work and no others.
+No loopholes. If you derive work from this, it must inherit the conditions that
+apply to this work and no others.
