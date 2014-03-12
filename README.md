@@ -20,12 +20,16 @@ Yes! You are welcome to use the CEB under the terms outlined in the
 In past decades, significant advances have been made that facilitate
 sharing material so that others may re-use it. People soon realized that
 legal frameworks must protect ethical virtues to ensure that shared work
-is used according to the wishes of its creators. The General Public
-License has pioneered ethical licensing with its copyleft innovation,
-requiring derivative work also be shared. Creative Commons expanded
+is used according to the wishes of its creators. The [GNU General Public
+License](https://www.gnu.org/copyleft/gpl.html) has pioneered ethical licensing with its copyleft innovation,
+requiring derivative work also be shared. [Creative Commons](creativecommons.org) expanded
 ethical licensing innovations with the introduction of attribution
 requirements, non-commercial limitation, and the prevention of derivative
-work to protect artistic integrity.
+work to protect artistic integrity. People for the Ethical Treatment of
+Animals even [innovated](http://www.peta.org/blog/license-kill-hereby-revoked/),
+with their 
+[Harm-Less Permissive License](http://www.4zm.org/files/2010/HPL/index.html)
+that prevented harm to both humans and animals.
 
 In the realm of science, we recognized data use agreements commonly
 stipulate that users may not use the material to violate privacy. More
